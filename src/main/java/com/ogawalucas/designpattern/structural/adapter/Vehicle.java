@@ -1,4 +1,4 @@
-package com.ogawalucas.designpattern.adapter;
+package com.ogawalucas.designpattern.structural.adapter;
 
 public interface Vehicle {
     public void accelerate();

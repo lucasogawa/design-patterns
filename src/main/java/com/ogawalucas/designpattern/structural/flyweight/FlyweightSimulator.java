@@ -1,4 +1,4 @@
-package com.ogawalucas.designpattern.flyweight;
+package com.ogawalucas.designpattern.structural.flyweight;
 
 import java.util.Random;
 

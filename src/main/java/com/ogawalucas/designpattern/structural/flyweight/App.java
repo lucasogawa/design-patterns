@@ -1,4 +1,4 @@
-package com.ogawalucas.designpattern.flyweight;
+package com.ogawalucas.designpattern.structural.flyweight;
 
 public class App {
 
